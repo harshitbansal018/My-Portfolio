@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 583 >>
+stream
+BT
+/F1 22 Tf
+72 720 Td
+(Harshit Bansal) Tj
+0 -34 Td
+/F1 13 Tf
+(Full Stack Developer | React.js Developer | IoT Enthusiast) Tj
+0 -34 Td
+(Email: bansalharshitpc.091@outlook.com | Phone: +91-8591707091) Tj
+0 -18 Td
+(Skills: Java, OOPS, SQL, React.js, Node.js, REST API, JIRA, Git, GitHub.) Tj
+0 -34 Td
+(Experience:) Tj
+0 -18 Td
+(- Web Developer Intern at Cognifyz Technologies, Sep 2024 - Oct 2024) Tj
+0 -18 Td
+(- Chandigarh University, Bachelor of Computer Science Engineering, CGPA 7.33/10) Tj
+0 -18 Td
+(- Projects: LocalWala, Eco-Friendly Tourism Tracker, IoT-Based Delivery Robot) Tj
+0 -34 Td
+(Certifications: NPTEL IoT, AWS Cloud Technical Essentials, Java Programming,) Tj
+0 -18 Td
+(React.js Workshop Certification, Tata Crucible Campus Quiz.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000875 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+945
+%%EOF
